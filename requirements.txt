@@ -1,0 +1,8 @@
+# Async Playwright
+playwright>=1.45.0
+
+# Movie editing
+moviepy>=1.0.3
+
+# Typing extensions (for Optional, Tuple, etc.)
+typing-extensions>=4.12.0
