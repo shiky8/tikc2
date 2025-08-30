@@ -13,7 +13,7 @@ TikC2 transforms TikTok into a C2 platform:
 
 ## **Demos**:  
 - [Demo 1](https://www.tiktok.com/@shiky124/video/7544339462046764295)  
-- [Demo 2](https://www.tiktok.com/@shiky124/video/7544340320679447816)  
+- [Demo 2](https://www.tiktok.com/@shiky124/video/7544340320679447816)
 
 - **Demos video**:
   
@@ -66,7 +66,7 @@ Key libraries:
    ```
 
 2. **Export TikTok Cookies**:
-   - Install the **Get-cookies.txt-LOCALLY** extension (Chrome/Firefox).
+   - Install the [Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) extension (Chrome/Firefox).
    - Log in to TikTok in your browser.
    - Export cookies for `https://www.tiktok.com` using the extension.
    - Save as `cookie3.txt` in the project root.
