@@ -91,7 +91,7 @@ tikc2/
 ## 🚀 Quick Start
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/tikc2.git
+   git clone https://github.com/shiky8/tikc2.git
    cd tikc2
    ```
 
@@ -191,7 +191,7 @@ We welcome contributions to improve TikC2. Ideas include:
 
 **To Contribute**:
 1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
+2. Create a feature branch (`git checkout -b shiky8/tikc2`).
 3. Submit a pull request with detailed changes.
 
 ## 📬 Contact
